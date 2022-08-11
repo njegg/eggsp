@@ -1,3 +1,3 @@
 # eggsp
 
-WIP website
+WIP personal website
